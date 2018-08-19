@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ecc98ccf-fada-4e41-bbaa-33aa2080a0f8" name="gitftp" url="http://210.36.247.141">
+        <fileTransfer host="210.36.247.141" port="21" rootFolder="/d:/www/lqm">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
