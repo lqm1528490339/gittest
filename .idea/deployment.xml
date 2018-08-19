@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="gitftp" uploadOnCheckin="ecc98ccf-fada-4e41-bbaa-33aa2080a0f8">
+  <component name="PublishConfigData" serverName="gitftp">
     <serverData>
       <paths name="gitftp">
         <serverdata>
@@ -10,6 +10,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="gitftp" />
   </component>
 </project>
